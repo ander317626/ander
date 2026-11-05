@@ -1,0 +1,93 @@
+[
+  {
+    "org": "腾讯",
+    "date": "2026-11-04",
+    "type": "模型发布",
+    "title": "Hy4 发布：从理解图像，到操作电脑",
+    "brief": "腾讯混元发布新一代 Hy4，新增视觉理解与 Computer Use，面向办公、编程与长程智能体任务。",
+    "background": "继 Hy4 preview 后，腾讯继续推进模型与 WorkBuddy 等产品的协同。",
+    "content": "官方新闻稿确认新增视觉理解和电脑操作能力，强化长文与长程任务。模型权重与系统卡片计划于近期公布。",
+    "check": "已核对腾讯提供的原始新闻稿。“最强”属于厂商评价；截至公告发布时，正式版权重仍待公开。",
+    "status": "官方公告",
+    "source": "腾讯 · 美通社原始新闻稿",
+    "url": "https://www.prnewswire.com/apac/zh/news-releases/-hy4-302929174.html"
+  },
+  {
+    "org": "Google",
+    "date": "2026-11-04",
+    "type": "前沿研究",
+    "title": "让 AI 理解人类的「灰色地带」",
+    "brief": "Google Research 介绍 Agile Deliberation，通过交互反馈，帮助用户逐步明确主观图像分类标准。",
+    "background": "健康食物、内容审核等任务的分类边界，往往随个人认知和语境变化。",
+    "content": "框架结合概念拆解、边界样本与自动提示优化。研究开展了 18 场、每场 1.5 小时的真人参与实验，并开放代码。",
+    "check": "已核对研究团队原文。效果来自该研究设置，不能直接推及所有分类任务。",
+    "status": "官方公告",
+    "source": "Google Research · 官方博客",
+    "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/"
+  },
+  {
+    "org": "百度",
+    "date": "2026-11-04",
+    "type": "产业应用",
+    "title": "Apollo World 披露：用虚拟世界训练无人车",
+    "brief": "百度在 AI Day Apollo 专场披露智能体驱动的全模态世界模型，用于自动驾驶测试与验证。",
+    "background": "自动驾驶需要覆盖大量罕见交通场景，仿真是实车测试之外的重要验证方式。",
+    "content": "据新浪科技现场报道，Apollo World 将交通参与者建模为可决策、可交互的智能体，为 AI Driver 提供虚拟学习环境。",
+    "check": "已核对新浪科技原始报道；本轮未取得百度官方原文。里程及能力表述为报道转述，未独立实测。",
+    "status": "媒体报道",
+    "source": "新浪科技 · 原始报道",
+    "url": "https://finance.sina.com.cn/tob/2026-11-04/doc-inixqhks9357310.shtml"
+  },
+  {
+    "org": "Microsoft",
+    "date": "2026-11-03",
+    "type": "产业应用",
+    "title": "Copilot 接入 MongoDB Atlas 实时业务数据",
+    "brief": "MongoDB 宣布联邦式 Copilot 连接器正式可用，让企业以自然语言查询实时运营数据。",
+    "background": "业务数据留在数据库中，员工却通常在 Microsoft 365 里提出业务问题。",
+    "content": "连接器通过托管 MCP 服务按需查询 Atlas，无须建立独立搜索索引。需要管理员启用，并沿用用户权限，支持只读访问与审计。",
+    "check": "已核对 MongoDB 官方发布。属于合作伙伴公告，实际使用取决于组织配置与权限。",
+    "status": "官方公告",
+    "source": "MongoDB · 合作伙伴官方博客",
+    "url": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot"
+  },
+  {
+    "org": "Microsoft",
+    "date": "2026-11-02",
+    "type": "工程实践",
+    "title": "微软公开 Copilot Cowork 的智能体工程实践",
+    "brief": "微软工程团队分享如何借助智能体开发 Cowork，以及在线完成 Python 到 Rust 的运行时迁移。",
+    "background": "智能体生成代码增加后，规格、审查、测试和执行权限成为工程质量的关键。",
+    "content": "团队报告 9 名工程师在 10 月 21 日合并 1,211 个 PR。文章强调先写规格、限定执行边界，并对关键变更保留人工判断。",
+    "check": "11 月 2 日为文章发布日期，1,211 个 PR 发生于 10 月 21 日；数据为团队自述，不等同于独立生产力评测。",
+    "status": "官方公告",
+    "source": "Microsoft Command Line · 工程团队",
+    "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/"
+  },
+  {
+    "org": "Anthropic",
+    "date": "",
+    "type": "人才与安全",
+    "title": "Anthropic 开放资深技术人才研究驻留申请",
+    "brief": "Residency 面向希望转入 AI 安全与研究领域的技术负责人，本轮申请截至 11 月 22 日。",
+    "background": "AI 安全研究需要来自数学、物理、软件工程等领域的跨学科经验。",
+    "content": "官方说明提供 6 周至 6 个月的带薪研究驻留、导师及计算资源；不要求既有机器学习背景。",
+    "check": "已核对官方申请说明。原文未显示明确发布日期，本页仅记录 2026-11-05 核验日期，不推定首发时间。",
+    "status": "官方公告",
+    "source": "Anthropic · Alignment Science Blog",
+    "url": "https://alignment.anthropic.com/2026/anthropic-residency/"
+  },
+  {
+    "org": "OpenAI",
+    "date": "",
+    "type": "政策动态",
+    "title": "OpenAI 更新使用政策，11 月 20 日生效",
+    "brief": "官方帮助中心列出政策变更，涉及替代模型训练、未成年人、高风险用途与模型访问中介。",
+    "background": "模型能力和使用场景扩展后，平台持续调整使用边界与审批要求。",
+    "content": "更新摘要澄清以模型或输出训练替代服务的限制，并整合国家安全原则及相关审批要求；新规则将于 2026 年 11 月 20 日生效。",
+    "check": "已核对官方帮助中心摘要。生效日尚未来临；原文未显示明确发布日期，核验日为 2026-11-05。具体要求应阅读完整政策与适用协议。",
+    "status": "官方公告",
+    "source": "OpenAI · 官方帮助中心",
+    "url": "https://help.openai.com/en/articles/12092907-were-updating-our-usage-policies"
+  }
+]
