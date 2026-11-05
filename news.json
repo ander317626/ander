@@ -10,7 +10,9 @@
     "check": "已核对腾讯提供的原始新闻稿。“最强”属于厂商评价；截至公告发布时，正式版权重仍待公开。",
     "status": "官方公告",
     "source": "腾讯 · 美通社原始新闻稿",
-    "url": "https://www.prnewswire.com/apac/zh/news-releases/-hy4-302929174.html"
+    "url": "https://www.prnewswire.com/apac/zh/news-releases/-hy4-302929174.html",
+    "verifiedAt": "2026-11-05",
+    "dateBasis": "原始来源发布日期（原站日期；未标时区不强行换算）"
   },
   {
     "org": "Google",
@@ -23,71 +25,53 @@
     "check": "已核对研究团队原文。效果来自该研究设置，不能直接推及所有分类任务。",
     "status": "官方公告",
     "source": "Google Research · 官方博客",
-    "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/"
+    "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+    "verifiedAt": "2026-11-05",
+    "dateBasis": "原始来源发布日期（原站日期；未标时区不强行换算）"
   },
   {
     "org": "百度",
     "date": "2026-11-04",
     "type": "产业应用",
     "title": "Apollo World 披露：用虚拟世界训练无人车",
-    "brief": "百度在 AI Day Apollo 专场披露智能体驱动的全模态世界模型，用于自动驾驶测试与验证。",
+    "brief": "新浪科技 11 月 4 日报道：百度披露 Apollo World，用智能体驱动的全模态世界模型支持自动驾驶测试与验证。",
     "background": "自动驾驶需要覆盖大量罕见交通场景，仿真是实车测试之外的重要验证方式。",
     "content": "据新浪科技现场报道，Apollo World 将交通参与者建模为可决策、可交互的智能体，为 AI Driver 提供虚拟学习环境。",
-    "check": "已核对新浪科技原始报道；本轮未取得百度官方原文。里程及能力表述为报道转述，未独立实测。",
+    "check": "已核对新浪科技原始报道；本轮未取得百度官方原文。里程及能力表述为报道转述，未独立实测。 部分聚合摘要标注 11 月 3 日，本期按新浪原始报道 11 月 4 日 16:07 归档，不独立推定发布会发生时刻。",
     "status": "媒体报道",
     "source": "新浪科技 · 原始报道",
-    "url": "https://finance.sina.com.cn/tob/2026-11-04/doc-inixqhks9357310.shtml"
-  },
-  {
-    "org": "Microsoft",
-    "date": "2026-11-03",
-    "type": "产业应用",
-    "title": "Copilot 接入 MongoDB Atlas 实时业务数据",
-    "brief": "MongoDB 宣布联邦式 Copilot 连接器正式可用，让企业以自然语言查询实时运营数据。",
-    "background": "业务数据留在数据库中，员工却通常在 Microsoft 365 里提出业务问题。",
-    "content": "连接器通过托管 MCP 服务按需查询 Atlas，无须建立独立搜索索引。需要管理员启用，并沿用用户权限，支持只读访问与审计。",
-    "check": "已核对 MongoDB 官方发布。属于合作伙伴公告，实际使用取决于组织配置与权限。",
-    "status": "官方公告",
-    "source": "MongoDB · 合作伙伴官方博客",
-    "url": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot"
-  },
-  {
-    "org": "Microsoft",
-    "date": "2026-11-02",
-    "type": "工程实践",
-    "title": "微软公开 Copilot Cowork 的智能体工程实践",
-    "brief": "微软工程团队分享如何借助智能体开发 Cowork，以及在线完成 Python 到 Rust 的运行时迁移。",
-    "background": "智能体生成代码增加后，规格、审查、测试和执行权限成为工程质量的关键。",
-    "content": "团队报告 9 名工程师在 10 月 21 日合并 1,211 个 PR。文章强调先写规格、限定执行边界，并对关键变更保留人工判断。",
-    "check": "11 月 2 日为文章发布日期，1,211 个 PR 发生于 10 月 21 日；数据为团队自述，不等同于独立生产力评测。",
-    "status": "官方公告",
-    "source": "Microsoft Command Line · 工程团队",
-    "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/"
-  },
-  {
-    "org": "Anthropic",
-    "date": "",
-    "type": "人才与安全",
-    "title": "Anthropic 开放资深技术人才研究驻留申请",
-    "brief": "Residency 面向希望转入 AI 安全与研究领域的技术负责人，本轮申请截至 11 月 22 日。",
-    "background": "AI 安全研究需要来自数学、物理、软件工程等领域的跨学科经验。",
-    "content": "官方说明提供 6 周至 6 个月的带薪研究驻留、导师及计算资源；不要求既有机器学习背景。",
-    "check": "已核对官方申请说明。原文未显示明确发布日期，本页仅记录 2026-11-05 核验日期，不推定首发时间。",
-    "status": "官方公告",
-    "source": "Anthropic · Alignment Science Blog",
-    "url": "https://alignment.anthropic.com/2026/anthropic-residency/"
+    "url": "https://finance.sina.com.cn/tob/2026-11-04/doc-inixqhks9357310.shtml",
+    "verifiedAt": "2026-11-05",
+    "dateBasis": "原始来源发布日期（原站日期；未标时区不强行换算）"
   },
   {
     "org": "OpenAI",
-    "date": "",
-    "type": "政策动态",
-    "title": "OpenAI 更新使用政策，11 月 20 日生效",
-    "brief": "官方帮助中心列出政策变更，涉及替代模型训练、未成年人、高风险用途与模型访问中介。",
-    "background": "模型能力和使用场景扩展后，平台持续调整使用边界与审批要求。",
-    "content": "更新摘要澄清以模型或输出训练替代服务的限制，并整合国家安全原则及相关审批要求；新规则将于 2026 年 11 月 20 日生效。",
-    "check": "已核对官方帮助中心摘要。生效日尚未来临；原文未显示明确发布日期，核验日为 2026-11-05。具体要求应阅读完整政策与适用协议。",
+    "date": "2026-11-04",
+    "type": "公司动态",
+    "title": "OpenAI 拟收购 Pierre，扩展 Codex 开发工具",
+    "brief": "OpenAI 宣布将收购 Pierre Computer Company，计划加强代码浏览、审查与 Git 工作流。",
+    "background": "随着智能体参与更多代码开发，源码管理和审查工具需要支持更大规模的并行工作。",
+    "content": "Pierre 的 Trees 和 Diffs 已用于 Codex。OpenAI 表示其开源项目将保持开源，计划将 Code Storage 的能力引入 Codex。",
+    "check": "已对照 OpenAI 11 月 4 日官方公告。交易尚需满足惯常交割条件和监管批准；不能表述为收购已完成。原文未注明发布时间及时区，按原站日历日期归档。",
     "status": "官方公告",
-    "source": "OpenAI · 官方帮助中心",
-    "url": "https://help.openai.com/en/articles/12092907-were-updating-our-usage-policies"
+    "source": "OpenAI · 官方公告",
+    "url": "https://openai.com/index/openai-to-acquire-pierre/",
+    "verifiedAt": "2026-11-05",
+    "dateBasis": "原始来源发布日期（原站日期；未标时区不强行换算）"
+  },
+  {
+    "org": "腾讯",
+    "date": "2026-11-04",
+    "type": "服务计费",
+    "title": "腾讯云公布 Step 5 Preview 缓存输入价格调整",
+    "brief": "TokenHub 公告调整 Step 5 Preview 的缓存命中输入价格；新价格将于北京时间 11 月 6 日零时生效。",
+    "background": "缓存命中价格会影响重复上下文、多轮对话等调用场景的模型成本。",
+    "content": "广州地域由 0.35 调至 0.70 元/百万 tokens，新加坡地域由 0.36 调至 0.72 元/百万 tokens；未命中缓存输入与输出价格不变。",
+    "check": "已对照腾讯云公告正文及公告列表。列表发布时间为 11 月 4 日 15:06:58；11 月 6 日是生效日，非发布日期。适用范围为公告所列平台、模型与地域。",
+    "status": "官方公告",
+    "source": "腾讯云 · 官方服务公告",
+    "url": "https://cloud.tencent.com/announce/detail/2542",
+    "verifiedAt": "2026-11-05",
+    "dateBasis": "原始来源发布日期（原站日期；未标时区不强行换算）"
   }
 ]
